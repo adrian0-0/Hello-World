@@ -1,2 +1,2 @@
 # Hello World!
- Fist repository
+ First Repository
